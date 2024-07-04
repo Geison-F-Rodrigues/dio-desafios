@@ -1,4 +1,3 @@
-import java.time.LocalDate;
 import java.util.Locale;
 import java.util.Scanner;
 
