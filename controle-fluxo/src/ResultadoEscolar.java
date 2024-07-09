@@ -11,6 +11,6 @@ public class ResultadoEscolar {
 
             else 
             System.out.println("Aluno Reprovado, Quem sab na próxima!");
-
+            
     }
 }
