@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class SistemaMedidaRefatorado {
     public static void main(String[] args) {
 
-    
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Digite aqui a sigla do tamnaho: ");
