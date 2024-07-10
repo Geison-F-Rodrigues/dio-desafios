@@ -1,4 +1,4 @@
-package ExerciciosExemplos;
+package ExemplosIfElse;
 public class ResultadoEscolar {
     public static void main(String[] args) {
         

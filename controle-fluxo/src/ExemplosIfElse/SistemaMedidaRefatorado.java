@@ -1,4 +1,4 @@
-package ExerciciosExemplos;
+package ExemplosIfElse;
 import java.util.Scanner;
 
 public class SistemaMedidaRefatorado {
