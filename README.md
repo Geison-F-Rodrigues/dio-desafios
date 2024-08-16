@@ -1,2 +1,2 @@
 # dio-desafios
-Repositório criado para desafios/exercicíos da DIO
+Repositório criado para armazenar exemplos das aulas - exercícios e desafios da plataforma DIO
