@@ -1,3 +1,5 @@
+package Desafios;
+
 import java.util.Locale;
 import java.util.Scanner;
 
@@ -38,7 +40,6 @@ public class ContaTerminal {
 
         String mensagem = ("Olá " + nomeTitular + ", obrigado por criar uma conta em nosso banco, sua agência é " + agencia +   ", conta " + numeroConta + " e seu saldo de " + saldoInicial + " já está disponível para saque.");
         System.out.println(mensagem);
-
 
         sc.close();
     }
