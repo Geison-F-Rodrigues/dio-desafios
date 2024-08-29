@@ -13,16 +13,16 @@ public class contator {
         try {
             contar(parametroUm, parametroDois);
 
-        } catch (ParametrosInavalidosException e) {
+        } catch (ParametrosInvalidosException e) {
             System.out.println("O segundo parâmetro deve ser maior que o primeiro");
         }
 
         sc.close();
     }
 
-    static void contar(int parametroUm, int parametroDois) throws ParametrosInavalidosException {
+    static void contar(int parametroUm, int parametroDois) throws ParametrosInvalidosException {
         if (parametroUm >= parametroDois) {
-            throw new ParametrosInavalidosException();
+            throw new ParametrosInvalidosException();
         }
 
         int contagem = parametroDois - parametroUm;
